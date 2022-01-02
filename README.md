@@ -2,6 +2,8 @@
 
 C'est un simple package d'exemple écrit en [Markdown](https://guides.github.com/features/mastering-markdown/)
 
+[github](https://github.com/pascallimeux/nox-demo
+)
 ## Création de l'environnement virtuel dans le répertoire .nox
 
 `nox --install-only`
